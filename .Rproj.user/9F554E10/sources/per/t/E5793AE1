@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518019835418.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2565356070",
+    "id" : "E5793AE1",
+    "lastKnownWriteTime" : 1518020360,
+    "last_content_update" : 1518020361000,
+    "path" : "~/Desktop/R practice/3_dan.R",
+    "project_path" : "3_dan.R",
+    "properties" : {
+        "cursorPosition" : "6,12",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516890880316.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1098659320",
+    "id" : "5264E26E",
+    "lastKnownWriteTime" : 1517151108,
+    "last_content_update" : 1517151108714,
+    "path" : "~/Desktop/R practice/764_lab_1.R",
+    "project_path" : "764_lab_1.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

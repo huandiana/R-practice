@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518020130844.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1393153398",
+    "id" : "C5A27CF2",
+    "lastKnownWriteTime" : 1518013623,
+    "last_content_update" : 1518013623,
+    "path" : "~/Desktop/R practice/exercise_lab3.R",
+    "project_path" : "exercise_lab3.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
